@@ -49,7 +49,7 @@ Ans.getNumberTwo(5);
 
 // Print Answer of multiplication.
 
-cout <<"Answer Multiplaction: " << Ans.getMultiplication() << endl;
+cout <<"Answer Multiplication: " << Ans.getMultiplication() << endl;
 
 return 0;
 

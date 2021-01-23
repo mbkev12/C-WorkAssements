@@ -5,7 +5,7 @@ using namespace std;
 // Base class
 
 
-class Shape { 
+class Numbers{ 
 
 public:
 

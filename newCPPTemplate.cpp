@@ -30,7 +30,7 @@ int two;
 
 // Derived class 
 
-class Multiplication: public Shape {
+class Multiplication: public Numbers {
 public: 
 
 int getAnswer() {
